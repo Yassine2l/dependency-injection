@@ -16,8 +16,7 @@ namespace CaisseSuperMarcher
         public void SetProduit()
         {
             Produit p1 = new Produit(1, "Chocolat", 3.2);
-            p1.Existreduction = true;
-            p1.totReduction = 0.2; // 20% de reduction
+            p1.SetReduction(0.2); //reduction 20%
             Produit p2 = new Produit(2, "Lait", 4.0);
 
             Produit p3 = new Produit(3, "biscuit", 1);

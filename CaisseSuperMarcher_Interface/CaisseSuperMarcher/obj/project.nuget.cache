@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FCV2H8WLdwtytUIlJz8pfv4t2CEKHxIJlRQuUJnoaEo2lLgGZWXcs1y86oh7+50OaQsp18dXMIS8R0hgL4f32w==",
+  "dgSpecHash": "vxqC7gYZwBi7l7/R+ompm2G1istAshPmI0CFZQMoU0DgU/xZYwvuasITkUxHPJo+hMRfyAZ2sVDqmUBJrmBpHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\source\\repos\\CaisseSuperMarcherV3\\CaisseSuperMarcher\\CaisseSuperMarcher.csproj",
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\dependency-injection\\CaisseSuperMarcher_Interface\\CaisseSuperMarcher\\CaisseSuperMarcher.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

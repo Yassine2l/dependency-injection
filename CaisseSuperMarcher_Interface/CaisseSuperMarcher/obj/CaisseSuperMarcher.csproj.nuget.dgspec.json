@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\source\\repos\\CaisseSuperMarcherV3\\CaisseSuperMarcher\\CaisseSuperMarcher.csproj": {}
+    "C:\\Users\\pc\\Desktop\\dependency-injection\\CaisseSuperMarcher_Interface\\CaisseSuperMarcher\\CaisseSuperMarcher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\source\\repos\\CaisseSuperMarcherV3\\CaisseSuperMarcher\\CaisseSuperMarcher.csproj": {
+    "C:\\Users\\pc\\Desktop\\dependency-injection\\CaisseSuperMarcher_Interface\\CaisseSuperMarcher\\CaisseSuperMarcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\CaisseSuperMarcherV3\\CaisseSuperMarcher\\CaisseSuperMarcher.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\dependency-injection\\CaisseSuperMarcher_Interface\\CaisseSuperMarcher\\CaisseSuperMarcher.csproj",
         "projectName": "CaisseSuperMarcher",
-        "projectPath": "C:\\Users\\pc\\source\\repos\\CaisseSuperMarcherV3\\CaisseSuperMarcher\\CaisseSuperMarcher.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\dependency-injection\\CaisseSuperMarcher_Interface\\CaisseSuperMarcher\\CaisseSuperMarcher.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\source\\repos\\CaisseSuperMarcherV3\\CaisseSuperMarcher\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\dependency-injection\\CaisseSuperMarcher_Interface\\CaisseSuperMarcher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

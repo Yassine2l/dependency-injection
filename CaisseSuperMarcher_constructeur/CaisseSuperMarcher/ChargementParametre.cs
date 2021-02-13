@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CaisseSuperMarcher
 {
-    class ChargementParametre : IChargementParametres
+    class ChargementParametre 
     {
         private SystemCentral System;
         public ParamClient involve(int id)

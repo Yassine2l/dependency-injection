@@ -10,10 +10,7 @@ namespace CaisseSuperMarcher
         
         
         public int IdProduit;
-
-
-        public Boolean Existreduction;
-        public double totReduction;
+        
         public int qte;
         public double PrixProduit;
         
@@ -21,17 +18,14 @@ namespace CaisseSuperMarcher
         {
             this.IdProduit = id;
             this.NomProduit = name;
-
-            if (!Existreduction)
-                this.PrixProduit= prix;
-            else
-            {
-                Existreduction = false;
-                
-                this.PrixProduit =(this.totReduction + 1) * prix;
-
-            }
+            this.PrixProduit= prix;
+            
             this.qte = 1;
+        }
+
+        public void SetReduction(double totReduction)
+        {
+            PrixProduit *= 1 - totReduction;
         }
 
 
